@@ -15,11 +15,7 @@ const heroVariants = {
   visible: { opacity: 1, scale: 1, transition: { duration: 0.8 } },
 };
 
-const toggleChat = () => {
-    // Replace this with your chat widget logic
-    // For example, show/hide a modal or open a sidebar
-    console.log("Chat widget toggled!");
-  };
+
 
 const AboutMePage = () => {
   
@@ -60,13 +56,7 @@ const AboutMePage = () => {
             </a>
           </div>
 
-           <button
-        onClick={toggleChat}
-        className="mt-8 bg-gradient-to-r from-pink-600 to-red-500 text-white px-6 py-3 rounded-full shadow-xl hover:from-pink-700 hover:to-red-600 transition duration-300 transform hover:scale-105 flex items-center justify-center gap-2"
-        aria-label="Open chat assistant"
-      >
-        Ask the AI about Panashe <FaRobot size={20} />
-      </button>
+           
         </div>
       </motion.section>
 
