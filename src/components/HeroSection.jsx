@@ -1,6 +1,6 @@
 import React from "react";
 import { motion } from "framer-motion";
-import { FaMapMarkerAlt, FaPhoneAlt, FaGithub, FaBrain, FaDatabase, FaLaptopCode, FaLanguage, FaGraduationCap, FaAward, FaUsers, FaRobot } from "react-icons/fa";
+import { FaMapMarkerAlt, FaPhoneAlt, FaGithub, FaBrain, FaLaptopCode, FaLanguage, FaGraduationCap, FaAward, FaUsers, FaRobot } from "react-icons/fa";
 import { MdAnalytics, MdEngineering } from "react-icons/md";
 import zchpcLogo from "../assets/zchpc-logo.png";
 import profileHero from "../assets/profile-hero.png";
