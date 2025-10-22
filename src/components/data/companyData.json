@@ -1,0 +1,71 @@
+{
+  "name": "rubiem",
+  "slogan": "Explore the AI Institute Africa",
+  "tagline": "Welcome to the Future of Digital Excellence",
+  "description": "Rubiem is a Pan-African strategy consultancy and ICT innovation firm delivering transformative IT solutions across Africa. We specialize in digital transformation, AI, and software solutions tailored to African markets.",
+  "headOffice": "275 Herbert Chitepo Avenue, Harare, Zimbabwe",
+  "contact": {
+    "email": "info@rubiem.co.zw",
+    "phone": "+263 788 147 289",
+    "address": "275 Herbert Chitepo Avenue, Harare, Zimbabwe"
+  },
+  "values": ["Sincerity", "Honesty", "Passion", "Excellence"],
+  "vision": "To be the leader in high-value consultancy services in Africa.",
+  "footprint": [
+    "Zimbabwe",
+    "South Africa",
+    "South Sudan",
+    "Swaziland",
+    "Namibia",
+    "Mozambique",
+    "Tanzania",
+    "Zambia",
+    "Mauritius"
+  ],
+  "services": [
+    "AI Training & Certification",
+    "Consulting Services",
+    "Software Development",
+    "Cloud Solutions",
+    "Cybersecurity",
+    "Managed IT Services"
+  ],
+  "industriesServed": [
+    "ICT & Telecommunications",
+    "Financial Banks & Commercial Retail",
+    "Manufacturing & Mining",
+    "Government Institutions"
+  ],
+  "team": [
+    {
+      "name": "Dr. Denis Magaya",
+      "position": "Chief Executive Officer",
+      "bio": "Founder and CEO of Rubiem, with over 29 years' experience in ICT strategy and digital transformation. Holds a BSc, MSc, MBA, Diploma IT, and PhD."
+    },
+    {
+      "name": "Thabolezwe Mabandla",
+      "position": "Software Developer"
+    },
+    {
+      "name": "Fastino Mateteva",
+      "position": "Software Developer"
+    },
+    {
+      "name": "Rumbidzai Gowera",
+      "position": "Personal Assistant"
+    },
+    {
+      "name": "Aisha Muchena",
+      "position": "Cloud Computing Intern"
+    },
+    {
+      "name": "Tatenda Makura",
+      "position": "Artificial Intelligence Intern"
+    }
+  ],
+  "stats": {
+    "clientsWorldwide": "200+",
+    "clientSatisfactionRate": "95%",
+    "countriesServed": 15
+  }
+}

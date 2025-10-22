@@ -1,0 +1,102 @@
+{
+  "developers": [
+    {
+      "name": "Panashe Arthur Mhonde",
+      "role": "Data Scientist, AI Researcher & Full-Stack Developer",
+      "contact": {
+        "phone": "+263 788 147 289",
+        "location": "Macheke, Zimbabwe",
+        "github": "https://github.com/PhaseOfficial",
+        "linkedin": "https://www.linkedin.com/in/panashe-arthur-m-2917b6261"
+      },
+      "languages": ["English (★★★★★)", "Shona (★★★★★)", "Sign Language (★★★☆☆)", "Chinese (★★★☆☆)"],
+      "skills": {
+        "technical": [
+          "Data Analysis (Python, R, SQL)",
+          "Machine Learning",
+          "Prompt Engineering",
+          "Data Engineering",
+          "Web & Full-Stack Development",
+          "Training LLMs",
+          "STATA, Excel & SPSS",
+          "Power BI",
+          "Selenium & BeautifulSoup"
+        ],
+        "softSkills": [
+          "Teamwork",
+          "Communication Skills",
+          "Time Management"
+        ]
+      },
+      "experience": [
+        {
+          "title": "Resident Researcher (Big Data & AI)",
+          "organization": "Zimbabwe Centre for High Performance Computing (ZCHPC)",
+          "location": "Harare, Zimbabwe",
+          "period": "Jul 2024 – Apr 2025",
+          "description": [
+            "Conducted research integrating Big Data analytics and AI for national-scale computational projects.",
+            "Developed predictive models and data pipelines using Python, TensorFlow, and distributed systems.",
+            "Collaborated with interdisciplinary teams on AI-driven solutions for climate, health, and infrastructure applications."
+          ]
+        },
+        {
+          "title": "Big Data Analyst Intern",
+          "organization": "Zimbabwe Centre for High Performance Computing (ZCHPC)",
+          "location": "Harare, Zimbabwe",
+          "period": "Jul 2023 – Jul 2024",
+          "description": [
+            "Collected, cleaned, and analyzed large datasets using Python and SQL to support decision-making.",
+            "Deployed and optimized machine learning models on HPC systems.",
+            "Developed visualization dashboards and contributed to technical documentation."
+          ]
+        }
+      ],
+      "education": [
+        {
+          "degree": "BSc (Hons) in Data Science and Systems",
+          "institution": "University of Zimbabwe",
+          "grade": "Upper Second Class (2.1)",
+          "period": "Sep 2021 – Jun 2025"
+        },
+        {
+          "level": "A-Level",
+          "institution": "Nhowe High School",
+          "period": "Feb 2018 – Nov 2019"
+        },
+        {
+          "level": "O-Level",
+          "institution": "Nhowe High School",
+          "period": "Jan 2013 – Nov 2017"
+        }
+      ],
+      "projects": [
+        {
+          "title": "Building a Bilingual Dataset and Language Model for Shona NLP in Zimbabwean Banking",
+          "achievement": "Dissertation Project (Distinction, Jun 2025)"
+        },
+        {
+          "title": "Zimbabwe Maize Crop Disease Detection Challenge (Zindi)",
+          "achievement": "5th Place out of 50 participants (Aug 2025)"
+        }
+      ],
+      "certifications": [
+        {
+          "title": "Artificial Intelligence and Big Data Analytics",
+          "issuer": "ZCHPC",
+          "date": "Jul 2024"
+        }
+      ],
+      "other": {
+        "driversLicense": "Class 2 (Sep 2021)",
+        "references": [
+          {
+            "name": "Mr. Zenda R",
+            "position": "Deputy Director, ZCHPC",
+            "contact": "+263 776 358 507"
+          }
+        ]
+      }
+    }
+  ]
+}
