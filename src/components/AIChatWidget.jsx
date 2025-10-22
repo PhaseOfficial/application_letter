@@ -141,7 +141,7 @@ This AI assistant was developed as a personal project demo — it can be adapted
       {!isOpen && (
         <div className="flex items-center space-x-3">
           <div className="bg-white text-gray-900 shadow-lg border border-gray-300 px-3 py-2 rounded-full text-sm font-medium animate-bounce-slow whitespace-nowrap">
-            🤖 Built by Panashe for Rubiem Try chatting!
+            🤖 Built for Rubiem Try chatting!
           </div>
 
           <button

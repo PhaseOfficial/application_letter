@@ -3,6 +3,7 @@ import { motion } from "framer-motion";
 import { FaMapMarkerAlt, FaPhoneAlt, FaGithub, FaBrain, FaLaptopCode, FaLanguage, FaGraduationCap, FaAward, FaUsers, FaRobot } from "react-icons/fa";
 import { MdAnalytics, MdEngineering } from "react-icons/md";
 import zchpcLogo from "../assets/zchpc-logo.png";
+import uzLogo from "../assets/University_of_Zimbabwe_LOGO.png";
 import profileHero from "../assets/profile-hero.png";
 
 const cardVariants = {
@@ -69,18 +70,14 @@ const AboutMePage = () => {
         <div className="grid gap-8 md:grid-cols-3">
           {/* Profile Card */}
           <motion.div
-            className="bg-white p-6 rounded-2xl shadow-md hover:shadow-lg transition"
+            className="bg-blue-50 p-6 rounded-2xl shadow-md hover:shadow-lg transition"
             custom={0}
             initial="hidden"
             whileInView="visible"
             viewport={{ once: true }}
             variants={cardVariants}
           >
-            <img
-              src={zchpcLogo}
-              alt="ZCHPC Logo"
-              className="h-16 mx-auto mb-4"
-            />
+            
             <h3 className="text-xl font-semibold text-center mb-3">
               Profile
             </h3>
@@ -91,13 +88,18 @@ const AboutMePage = () => {
 
           {/* Work Experience */}
           <motion.div
-            className="bg-white p-6 rounded-2xl shadow-md hover:shadow-lg transition"
+            className="bg-blue-50 p-6 rounded-2xl shadow-md hover:shadow-lg transition"
             custom={1}
             initial="hidden"
             whileInView="visible"
             viewport={{ once: true }}
             variants={cardVariants}
           >
+          <img
+              src={zchpcLogo}
+              alt="ZCHPC Logo"
+              className="h-16 mx-auto mb-4"
+            />
             <h3 className="text-xl font-semibold text-center mb-3">
               Work Experience
             </h3>
@@ -124,7 +126,7 @@ const AboutMePage = () => {
 
           {/* Skills */}
           <motion.div
-            className="bg-white p-6 rounded-2xl shadow-md hover:shadow-lg transition"
+            className="bg-blue-50 p-6 rounded-2xl shadow-md hover:shadow-lg transition"
             custom={2}
             initial="hidden"
             whileInView="visible"
@@ -149,7 +151,7 @@ const AboutMePage = () => {
         <div className="grid gap-8 md:grid-cols-3 mt-12">
           {/* Languages */}
           <motion.div
-            className="bg-white p-6 rounded-2xl shadow-md hover:shadow-lg transition"
+            className="bg-blue-50 p-6 rounded-2xl shadow-md hover:shadow-lg transition"
             custom={3}
             initial="hidden"
             whileInView="visible"
@@ -169,13 +171,18 @@ const AboutMePage = () => {
 
           {/* Education */}
           <motion.div
-            className="bg-white p-6 rounded-2xl shadow-md hover:shadow-lg transition"
+            className="bg-blue-50 p-6 rounded-2xl shadow-md hover:shadow-lg transition"
             custom={4}
             initial="hidden"
             whileInView="visible"
             viewport={{ once: true }}
             variants={cardVariants}
           >
+           <img
+              src={uzLogo}
+              alt="UZ Logo"
+              className="h-16 mx-auto mb-4"
+            />
             <h3 className="text-xl font-semibold text-center mb-3">
               <FaGraduationCap className="inline mr-2" /> Education
             </h3>
@@ -191,7 +198,7 @@ const AboutMePage = () => {
 
           {/* Achievements */}
           <motion.div
-            className="bg-white p-6 rounded-2xl shadow-md hover:shadow-lg transition flex flex-col justify-between"
+            className="bg-blue-50 p-6 rounded-2xl shadow-md hover:shadow-lg transition flex flex-col justify-between"
             custom={5}
             initial="hidden"
             whileInView="visible"
@@ -208,9 +215,7 @@ const AboutMePage = () => {
                 <li>AI & Big Data Certificate (ZCHPC)</li>
               </ul>
             </div>
-            <button className="mt-6 bg-indigo-600 hover:bg-indigo-700 text-white py-2 px-4 rounded-full font-medium transition flex items-center justify-center gap-2">
-              Ask the AI about Panashe <FaRobot />
-            </button>
+          
           </motion.div>
         </div>
       </section>
